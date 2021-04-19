@@ -1,0 +1,8 @@
+#Ignore Files
+*.txt
+*.docx
+*.pdf
+/uploads
+/vendors
+!uploads/README.md
+
